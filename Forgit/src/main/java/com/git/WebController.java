@@ -10,6 +10,9 @@ public String sayHello()
 {
 	return "hello";
 }
+public String hi()
+{
+	return "hi";
 
 
 }

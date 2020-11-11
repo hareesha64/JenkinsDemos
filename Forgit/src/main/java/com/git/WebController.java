@@ -8,7 +8,7 @@ public class WebController {
 @GetMapping("/hi")
 public String sayHello()
 {
-	return "hello";
+	return "hi";
 }
 
 }
